@@ -1,9 +1,8 @@
 # Floc App 
 
 ### Team Members: 
-Ashwin Char(lead),
+Shreehari Srinivasan(lead),
 Jacqueline Hui,
-Shreehari Srinivasan,
 Stanley Chen
 
 
